@@ -1,4 +1,3 @@
-#/home/runner/Ascii/ayush.jpg
 import PIL.Image
 import math
 
